@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "693077211125",
+    "project_id": "mcnazaretvan",
+    "storage_bucket": "mcnazaretvan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693077211125:android:62cadaea6a0f8093b452bc",
+        "android_client_info": {
+          "package_name": "com.example.mc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkaCUADQDR9D6OjvBF0Ibz810Mb92uvAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
